@@ -1,7 +1,7 @@
 GFaker
 =========
 
-Python API Wrapper for `products.aspose.app/email/gmail-generator <https://products.aspose.app/email/gmail-generator>` service and `emailnator.com <https://www.emailnator.com>`
+Python API Wrapper for `products.aspose.app/email/gmail-generator` service and `emailnator.com`
 
 Installation
 ------------

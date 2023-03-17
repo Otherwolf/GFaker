@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     @example.gmailnator.letter_handler()
     def handler(letter):
-        print(letter)
+        print(letter.letter)
 
     print('email:', example.generate_fake_email())
     example.poling()
